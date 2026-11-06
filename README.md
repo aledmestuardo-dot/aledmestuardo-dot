@@ -59,7 +59,7 @@ Consolidar mi perfil técnico participando en retos de desarrollo reales, aporta
 
 ### 🌐 Conecta Conmigo
 
-- 🐙 **GitHub:** [Explora mis repositorios](https://github.com/TU_USUARIO)
+- 🐙 **GitHub:** [Explora mis repositorios](https://github.com/aledmestuardo-dot)
 - 📍 **Ubicación:** Santa Rosa, Guatemala
 
 ⭐ *¡Gracias por visitar mi perfil! Siempre hay algo nuevo que aprender y construir.*
