@@ -48,6 +48,9 @@ Actualmente, sigo expandiendo mis competencias técnicas a través del desarroll
 - 📱 **Sistema de Gestión de Telefonía y Accesorios**  
   *Software de escritorio estructurado bajo arquitectura por capas para administrar inventario de equipos, proveedores y sucursales de forma desacoplada.*  
   **Tecnologías:** C#, .NET Framework, Windows Forms, SQL Server, POO.
+  
+  ## Descarga del ejecutable
+Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de [Lanzamientos (Releases)](../../releases/latest).
 
 ---
 
