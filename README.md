@@ -50,7 +50,7 @@ Actualmente, sigo expandiendo mis competencias técnicas a través del desarroll
   **Tecnologías:** C#, .NET Framework, Windows Forms, SQL Server, POO.
   
   ## Descarga del ejecutable
-Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de [Lanzamientos (Releases)](https://github.com/aledmestuardo-dot/Sistema-Telefon-a-Y-Accesorios-Guatemala.git).
+Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de [Lanzamientos (Releases)](Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de [Lanzamientos (Releases)](https://github.com/aledmestuardo-dot/Sistema-Telefon-a-Y-Accesorios-Guatemala/releases/latest).).
 
 ---
 
