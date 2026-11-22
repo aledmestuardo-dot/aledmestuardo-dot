@@ -1,68 +1,57 @@
 # ¡Hola, qué tal! Soy Alex Donis 👋
+### 💻 Estudiante de Ingeniería en Sistemas | Desarrollador de Software Junior (.NET / C#)
 
-### 💻 Estudiante de Ingeniería en Sistemas | Entusiasta del Desarrollo de Software
+Me apasiona la programación y transformar ideas lógicas en soluciones tecnológicas eficientes. Disfruto diseñando arquitecturas limpias, estructurando bases de datos relacionales y creando aplicaciones funcionales que resuelvan necesidades reales. 
 
-Me apasiona la programación y transformar ideas lógicas en soluciones tecnológicas eficientes. Disfruto diseñando arquitecturas limpias, estructurando bases de datos y creando aplicaciones funcionales que solucionen necesidades del mundo real.
-
-Actualmente, sigo expandiendo mis competencias técnicas a través del desarrollo continuo de proyectos prácticos y académicos.
+Actualmente sigo expandiendo mis competencias técnicas mediante el desarrollo continuo de proyectos personales y académicos, integrando flujos modernos de trabajo asistidos por IA.
 
 ---
 
 ### 🚀 Sobre mí
-
-- 🎓 Cursando el 4.º semestre de Ingeniería en Sistemas.
-- 🖥️ Enfoque en el desarrollo de aplicaciones de escritorio usando **C# y Windows Forms (.NET Framework 4.8)**.
-- 🗄️ Gestión y diseño de esquemas de datos relacionales con **SQL Server**.
-- 🏛️ Aplicación de **Programación Orientada a Objetos (POO)** y arquitectura en n-capas *(Presentación, Negocio, Entidad y Datos)*.
-- 🔗 Implementación de flujos CRUD y sincronización eficiente entre interfaz y base de datos.
-- 💡 Motivado por aprender continuamente y colaborar en equipos de tecnología.
+- 🎓 **4.º semestre finalizado** de Ingeniería en Sistemas (iniciando 5.º semestre).
+- 🖥️ Desarrollo de aplicaciones con **C# (.NET y .NET Framework 4.8)** y Windows Forms.
+- 🗄️ Diseño, modelado y gestión de bases de datos relacionales con **SQL Server** y **MySQL Workbench**.
+- 🏛️ Aplicación de **Programación Orientada a Objetos (POO)** y arquitectura en **n-capas** (Presentación, Negocio, Entidad y Datos).
+- 🔗 Implementación de flujos **CRUD** y sincronización eficiente entre interfaz y base de datos.
+- 🤖 Uso práctico de agentes de IA en el entorno de desarrollo para agilizar la codificación y depuración.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Lenguajes de programación:**
-- C#
+**Lenguajes y Frameworks:**
+- C# | .NET | .NET Framework | Windows Forms
 
-**Bases de Datos & Lógica:**
-- Microsoft SQL Server / SQL
-- Modelado de datos relacionales y diagramas E-R
+**Bases de Datos & Arquitectura:**
+- Microsoft SQL Server / SQL (SSMS)
+- Modelado de datos relacionales y diagramas E-R (MySQL Workbench)
 - Programación Orientada a Objetos (POO) & Arquitectura por capas
 - Operaciones CRUD y validación de datos
 
-**Entornos y Control de Versiones:**
-- Visual Studio 2026 & SSMS (SQL Server Management Studio)
-- Git & GitHub
-- Docker | Supabase
+**Entornos, DevOps y Control de Versiones:**
+- Visual Studio & Visual Studio Code
+- Git & GitHub (flujo colaborativo con ramas y Pull Requests)
+- Docker (manejo de contenedores e imágenes) | Supabase
 
----
-
-### 🎯 Áreas de Interés y Aprendizaje
-
-- 🤖 **Inteligencia Artificial:** En proceso de aprendizaje sobre fundamentos de IA y desarrollo orientado a **Agentes de IA** para futuras integraciones en software.
+**Productividad con IA:**
+- Prompt Engineering aplicado al desarrollo (Codex, OpenCode y ChatGPT en VS Code)
 
 ---
 
 ### 📂 Proyectos Destacados
 
-- 📱 **Sistema de Gestión de Telefonía y Accesorios**  
-  *Software de escritorio estructurado bajo arquitectura por capas para administrar inventario de equipos, proveedores y sucursales de forma desacoplada.*  
-  **Tecnologías:** C#, .NET Framework, Windows Forms, SQL Server, POO.
-  
-  ## Descarga del ejecutable
-Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de [Lanzamientos (Releases)](https://github.com/aledmestuardo-dot/Sistema-Telefon-a-Y-Accesorios-Guatemala/releases/latest).
+#### 📱 Sistema de Gestión de Telefonía y Accesorios
+Software de escritorio estructurado bajo arquitectura por capas para administrar inventario de equipos, proveedores y sucursales de forma desacoplada.
+- **Tecnologías:** C#, .NET Framework, Windows Forms, SQL Server, POO.
+- **Descarga del ejecutable:** Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de **Releases** de su repositorio.
 
 ---
 
 ### 🎯 Objetivo Profesional
-
-Consolidar mi perfil técnico participando en retos de desarrollo reales, aportando valor mediante código estructurado y buenas prácticas de ingeniería de software. Busco activamente oportunidades como pasante o desarrollador Junior donde pueda aprender y aportar valor.
-
----
+Consolidar mi perfil técnico participando en retos de desarrollo reales, aportando valor mediante código estructurado y buenas prácticas de ingeniería de software. Busco activamente oportunidades como **pasante (Trainee)** o **Desarrollador Junior** donde pueda seguir aprendiendo y aportar soluciones desde el primer día.
 
 ### 🌐 Conecta Conmigo
-
-- 🐙 **GitHub:** [Explora mis repositorios](https://github.com/aledmestuardo-dot)
+- 🐙 **GitHub:** Explora mis repositorios fijados aquí abajo.
 - 📍 **Ubicación:** Santa Rosa, Guatemala
 
 ⭐ *¡Gracias por visitar mi perfil! Siempre hay algo nuevo que aprender y construir.*
