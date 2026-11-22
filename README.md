@@ -42,7 +42,7 @@ Actualmente sigo expandiendo mis competencias técnicas mediante el desarrollo c
 
 #### 📱 Sistema de Gestión de Telefonía y Accesorios
 Software de escritorio estructurado bajo arquitectura por capas para administrar inventario de equipos, proveedores y sucursales de forma desacoplada.
-- **Tecnologías:** C#, .NET Framework, Windows Forms, SQL Server, POO.
+- **Tecnologías:** C#, .NET Framework, Windows Forms, SQL Server, POO, implementado principalmente con agentes de IA (Codex y Opencode).
 - **Descarga del ejecutable:** Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de **Releases** de su repositorio.
 
 ---
