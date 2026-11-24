@@ -1,57 +1,68 @@
 # ¡Hola, qué tal! Soy Alex Donis 👋
 ### 💻 Estudiante de Ingeniería en Sistemas | Desarrollador de Software Junior (.NET / C#)
 
-Me apasiona la programación y transformar ideas lógicas en soluciones tecnológicas eficientes. Disfruto diseñando arquitecturas limpias, estructurando bases de datos relacionales y creando aplicaciones funcionales que resuelvan necesidades reales. 
+Me apasiona el desarrollo de software y transformar requerimientos lógicos en soluciones funcionales. Me enfoco en aprender y aplicar buenas prácticas de Programación Orientada a Objetos (POO), modelado de bases de datos relacionales y estructuración de proyectos por capas.
 
-Actualmente sigo expandiendo mis competencias técnicas mediante el desarrollo continuo de proyectos personales y académicos, integrando flujos modernos de trabajo asistidos por IA.
+Actualmente continúo fortaleciendo mis habilidades técnicas construyendo aplicaciones desde cero y combinando fundamentos sólidos de ingeniería con flujos modernos de desarrollo asistidos por IA.
 
 ---
 
 ### 🚀 Sobre mí
-- 🎓 **4.º semestre finalizado** de Ingeniería en Sistemas (iniciando 5.º semestre).
-- 🖥️ Desarrollo de aplicaciones con **C# (.NET y .NET Framework 4.8)** y Windows Forms.
-- 🗄️ Diseño, modelado y gestión de bases de datos relacionales con **SQL Server** y **MySQL Workbench**.
-- 🏛️ Aplicación de **Programación Orientada a Objetos (POO)** y arquitectura en **n-capas** (Presentación, Negocio, Entidad y Datos).
-- 🔗 Implementación de flujos **CRUD** y sincronización eficiente entre interfaz y base de datos.
-- 🤖 Uso práctico de agentes de IA en el entorno de desarrollo para agilizar la codificación y depuración.
+- 🎓 **Estudiante activo de Ingeniería en Sistemas** (4.º semestre completado, iniciando 5.º semestre en Universidad Mariano Gálvez de Guatemala).
+- 🖥️ Desarrollo de aplicaciones de escritorio con **C# (.NET Framework 4.8)** y Windows Forms.
+- 🗄️ Diseño conceptual, modelado Entidad-Relación y creación de esquemas en **SQL Server (SSMS)** y **MySQL Workbench**.
+- 🏛️ Estructuración de soluciones bajo **Programación Orientada a Objetos (POO)** y **arquitectura en 4 capas** (*Presentación, Entidad, Negocio y Datos*).
+- 🤖 Uso práctico de agentes de IA en Visual Studio Code para acelerar prototipado, depuración y flujo de trabajo.
+- 🕒 **Disponibilidad:** Lunes a viernes en jornada completa (estudios universitarios en plan sábado).
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes y Frameworks:**
-- C# | .NET | .NET Framework | Windows Forms
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Framework%204.8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-**Bases de Datos & Arquitectura:**
-- Microsoft SQL Server / SQL (SSMS)
-- Modelado de datos relacionales y diagramas E-R (MySQL Workbench)
-- Programación Orientada a Objetos (POO) & Arquitectura por capas
-- Operaciones CRUD y validación de datos
+**Bases de Datos y Modelado:**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Entornos, DevOps y Control de Versiones:**
-- Visual Studio & Visual Studio Code
-- Git & GitHub (flujo colaborativo con ramas y Pull Requests)
-- Docker (manejo de contenedores e imágenes) | Supabase
+**Entornos, Contenedores y Control de Versiones:**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20(Básico)-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Productividad con IA:**
-- Prompt Engineering aplicado al desarrollo (Codex, OpenCode y ChatGPT en VS Code)
+- Ingeniería de prompts aplicada al desarrollo de software (**Codex, OpenCode y ChatGPT** en VS Code).
 
 ---
 
 ### 📂 Proyectos Destacados
 
+#### ☕ Sistema de Gestión de Producción y Control de Café *(En desarrollo)*
+Aplicación de escritorio desarrollada **100 % de forma manual** para consolidar el dominio de la arquitectura en 4 capas, la lógica de negocio y el acceso a datos con ADO.NET (`SqlConnection`).
+- **Enfoque técnico:** Implementación manual de clases de entidad, conexión centralizada vía `App.config`, diseño relacional en SQL Server e interfaz en Windows Forms.
+- **Tecnologías:** C#, .NET Framework 4.8, Windows Forms, SQL Server.
+
 #### 📱 Sistema de Gestión de Telefonía y Accesorios
-Software de escritorio estructurado bajo arquitectura por capas para administrar inventario de equipos, proveedores y sucursales de forma desacoplada.
+Aplicación de escritorio estructurada bajo arquitectura en 4 capas para administrar inventario de equipos, proveedores y sucursales de forma modular.
+- **Enfoque técnico:** Proyecto académico desarrollado mediante flujos iterativos asistidos por IA, integrando base de datos relacional y generación de instalador para Windows.
 - **Tecnologías:** C#, .NET Framework, Windows Forms, SQL Server, POO.
-- **Descarga del ejecutable:** Puedes descargar el instalador oficial para Windows (`.msi`) desde la sección de **Releases** de su repositorio.
+- **Instalador:** Disponible en la sección de **Releases** del repositorio (`.msi`).
 
 ---
 
 ### 🎯 Objetivo Profesional
-Consolidar mi perfil técnico participando en retos de desarrollo reales, aportando valor mediante código estructurado y buenas prácticas de ingeniería de software. Busco activamente oportunidades como **pasante (Trainee)** o **Desarrollador Junior** donde pueda seguir aprendiendo y aportar soluciones desde el primer día.
+Busco mi primera oportunidad laboral como **Trainee / Pasante** o **Desarrollador Junior (.NET / SQL)** donde pueda aportar compromiso, ética de trabajo y capacidad de aprendizaje continuo mientras contribuyo en proyectos reales de desarrollo de software.
+
+---
 
 ### 🌐 Conecta Conmigo
-- 🐙 **GitHub:** Explora mis repositorios fijados aquí abajo.
-- 📍 **Ubicación:** Santa Rosa, Guatemala
+- 💼 **LinkedIn:** [Alex Estuardo Donis Morales](https://www.linkedin.com/in/aledmestuardo/)
+- 📧 **Correo:** aledmestuardo@gmail.com
+- 📍 **Ubicación:** Santa Rosa, Guatemala (Disponibilidad Remota / Presencial)
 
 ⭐ *¡Gracias por visitar mi perfil! Siempre hay algo nuevo que aprender y construir.*
