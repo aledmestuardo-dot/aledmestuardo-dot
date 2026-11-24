@@ -62,7 +62,7 @@ Busco mi primera oportunidad laboral como **Trainee / Pasante** o **Desarrollado
 
 ### 🌐 Conecta Conmigo
 - 💼 **LinkedIn:** [Alex Estuardo Donis Morales](https://www.linkedin.com/in/aledmestuardo/)
-- 📧 **Correo:** [Alex Estuardo Donis Morales](aledmestuardo@gmail.com)
+- 📧 **Correo:** aledmestuardo@gmail.com
 - 📍 **Ubicación:** Santa Rosa, Guatemala (Disponibilidad Remota / Presencial)
 
 ⭐ *¡Gracias por visitar mi perfil! Siempre hay algo nuevo que aprender y construir.*
