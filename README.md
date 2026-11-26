@@ -21,7 +21,7 @@ Actualmente continúo fortaleciendo mis habilidades técnicas construyendo aplic
 
 **Lenguajes y Frameworks:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![NET](https://img.shields.io/badge/.NET-Framework%204.8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NET](https://img.shields.io/badge/DotNET%20Framework-512BD4?style=flat-square)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat-square)
 
 **Bases de Datos y Modelado:**
