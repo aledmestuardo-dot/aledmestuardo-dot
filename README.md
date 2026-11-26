@@ -20,20 +20,21 @@ Actualmente continúo fortaleciendo mis habilidades técnicas construyendo aplic
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes y Frameworks:**
-![C#](https://img.shields.io/static/v1?label=&message=C%23&color=239120&style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/static/v1?label=&message=.NET+Framework+4.8&color=512BD4&style=flat-square)
-![Windows Forms](https://img.shields.io/static/v1?label=&message=Windows+Forms&color=0078D6&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/NET%20Framework%204.8-512BD4?style=flat-square)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat-square)
 
 **Bases de Datos y Modelado:**
-![SQL Server](https://img.shields.io/static/v1?label=&message=SQL+Server&color=CC2927&style=flat-square)
-![MySQL](https://img.shields.io/static/v1?label=&message=MySQL+Workbench&color=4479A1&style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Entornos, Contenedores y Control de Versiones:**
-![Visual Studio](https://img.shields.io/static/v1?label=&message=Visual+Studio+2022&color=5C2D91&style=flat-square)
-![VS Code](https://img.shields.io/static/v1?label=&message=VS+Code&color=007ACC&style=flat-square)
-![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/static/v1?label=&message=Docker+(Básico)&color=2496ED&style=flat-square&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20(Básico)-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 **Productividad con IA:**
 - Ingeniería de prompts aplicada al desarrollo de software (**Codex, OpenCode y ChatGPT** en VS Code).
 
